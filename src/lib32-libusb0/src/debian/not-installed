@@ -1,0 +1,6 @@
+# libusbpp is not packaged
+usr/include/usbpp.h
+usr/lib/*/libusbpp*
+
+# we do not ship .la files
+usr/lib/*/*.la
